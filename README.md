@@ -5,7 +5,7 @@ A screeps inspired football simulation game.
 
 This is just a prototype / proof of concept.
 
-I enjoyed playing Screeps for a while, but i'm not much of an RTS played. That's why i wanted to recreate the screeps experience with a game type that i'm more experienced with. My 1000+ hours logged in football manager kind of made the decision for me.
+I enjoyed playing Screeps for a while, but i'm not much of an RTS player. That's why i wanted to recreate the screeps experience with a game type that i'm more experienced with. My 1000+ hours logged in football manager kind of made the decision for me.
 
 Some code concepts and variable names are outright copied from Screeps. Having played a lot of Screeps lately these patterns make more sense to me, thus they're easier to work with.
 
@@ -22,6 +22,7 @@ node ks.js
 
 ## 3. Example output
 
+
     .        .        .        .        P        .        K       .        P        .        .        .        .    
 
 
@@ -37,7 +38,7 @@ node ks.js
     .        .        .        .        .        .        .        .        .        .        .        .        .    
 
 
-    .        .        .        .        S        .        .        .        .        .        .        .        .    
+    .        .        .        .        S        .        .        .        S        .        .        .        .    
 
 
     .        .        .        .        .        .        .        .        .        .        .        .        .    
@@ -58,4 +59,5 @@ node ks.js
     .        .        .        D        .        .        D        .        .        D        .        .        .    
 
 
-    .        .        .        .        P        .        K       .        P        .        .        .        .   
+    .        .        .        .        P        .        K       .        P        .        .        .        .    
+
